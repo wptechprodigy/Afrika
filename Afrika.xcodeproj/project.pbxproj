@@ -94,6 +94,7 @@
 		0464FD782679151700BF04C2 /* Afrika */ = {
 			isa = PBXGroup;
 			children = (
+				0464FDAA2679330C00BF04C2 /* App */,
 				0464FDB92679454E00BF04C2 /* Extensions */,
 				0464FDB62679410700BF04C2 /* Models */,
 				0464FDB32679396700BF04C2 /* Views */,
@@ -101,7 +102,6 @@
 				0464FD8A2679192D00BF04C2 /* Video */,
 				0464FD89267916CE00BF04C2 /* Supporting Files */,
 				0464FD88267916B300BF04C2 /* Resources */,
-				0464FDAA2679330C00BF04C2 /* App */,
 				0464FD7F2679151A00BF04C2 /* Preview Content */,
 			);
 			path = Afrika;
