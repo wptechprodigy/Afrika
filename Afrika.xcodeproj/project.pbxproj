@@ -35,6 +35,7 @@
 		0464FDBD2679528500BF04C2 /* AnimalListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDBC2679528500BF04C2 /* AnimalListItemView.swift */; };
 		0464FDBF267961E000BF04C2 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDBE267961E000BF04C2 /* Animal.swift */; };
 		0464FDC126796F4C00BF04C2 /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDC026796F4C00BF04C2 /* AnimalDetailView.swift */; };
+		0464FDC32679758800BF04C2 /* HeadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDC22679758800BF04C2 /* HeadingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		0464FDBC2679528500BF04C2 /* AnimalListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListItemView.swift; sourceTree = "<group>"; };
 		0464FDBE267961E000BF04C2 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 		0464FDC026796F4C00BF04C2 /* AnimalDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
+		0464FDC22679758800BF04C2 /* HeadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,6 +186,7 @@
 				0464FDB42679398F00BF04C2 /* CoverImageView.swift */,
 				0464FDC026796F4C00BF04C2 /* AnimalDetailView.swift */,
 				0464FDBC2679528500BF04C2 /* AnimalListItemView.swift */,
+				0464FDC22679758800BF04C2 /* HeadingView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 				0464FDAC2679336400BF04C2 /* VideoListView.swift in Sources */,
 				0464FDBB2679455B00BF04C2 /* CodableBundle.swift in Sources */,
 				0464FDB02679339F00BF04C2 /* GalleryView.swift in Sources */,
+				0464FDC32679758800BF04C2 /* HeadingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
