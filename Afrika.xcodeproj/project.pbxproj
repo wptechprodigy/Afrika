@@ -32,6 +32,7 @@
 		0464FDB52679398F00BF04C2 /* CoverImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDB42679398F00BF04C2 /* CoverImageView.swift */; };
 		0464FDB82679411F00BF04C2 /* CoverImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDB72679411F00BF04C2 /* CoverImage.swift */; };
 		0464FDBB2679455B00BF04C2 /* CodableBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDBA2679455B00BF04C2 /* CodableBundle.swift */; };
+		0464FDBD2679528500BF04C2 /* AnimalListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDBC2679528500BF04C2 /* AnimalListItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		0464FDB42679398F00BF04C2 /* CoverImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageView.swift; sourceTree = "<group>"; };
 		0464FDB72679411F00BF04C2 /* CoverImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImage.swift; sourceTree = "<group>"; };
 		0464FDBA2679455B00BF04C2 /* CodableBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundle.swift; sourceTree = "<group>"; };
+		0464FDBC2679528500BF04C2 /* AnimalListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 			isa = PBXGroup;
 			children = (
 				0464FDB42679398F00BF04C2 /* CoverImageView.swift */,
+				0464FDBC2679528500BF04C2 /* AnimalListItemView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0464FD7C2679151700BF04C2 /* ContentView.swift in Sources */,
+				0464FDBD2679528500BF04C2 /* AnimalListItemView.swift in Sources */,
 				0464FDB2267933D300BF04C2 /* MainView.swift in Sources */,
 				0464FDB52679398F00BF04C2 /* CoverImageView.swift in Sources */,
 				0464FDAE2679338500BF04C2 /* MapView.swift in Sources */,
