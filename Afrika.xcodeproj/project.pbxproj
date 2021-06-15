@@ -34,6 +34,7 @@
 		0464FDBB2679455B00BF04C2 /* CodableBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDBA2679455B00BF04C2 /* CodableBundle.swift */; };
 		0464FDBD2679528500BF04C2 /* AnimalListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDBC2679528500BF04C2 /* AnimalListItemView.swift */; };
 		0464FDBF267961E000BF04C2 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDBE267961E000BF04C2 /* Animal.swift */; };
+		0464FDC126796F4C00BF04C2 /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDC026796F4C00BF04C2 /* AnimalDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,7 @@
 		0464FDBA2679455B00BF04C2 /* CodableBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundle.swift; sourceTree = "<group>"; };
 		0464FDBC2679528500BF04C2 /* AnimalListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListItemView.swift; sourceTree = "<group>"; };
 		0464FDBE267961E000BF04C2 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		0464FDC026796F4C00BF04C2 /* AnimalDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +182,7 @@
 			isa = PBXGroup;
 			children = (
 				0464FDB42679398F00BF04C2 /* CoverImageView.swift */,
+				0464FDC026796F4C00BF04C2 /* AnimalDetailView.swift */,
 				0464FDBC2679528500BF04C2 /* AnimalListItemView.swift */,
 			);
 			path = Views;
@@ -290,6 +293,7 @@
 				0464FDBD2679528500BF04C2 /* AnimalListItemView.swift in Sources */,
 				0464FDB2267933D300BF04C2 /* MainView.swift in Sources */,
 				0464FDB52679398F00BF04C2 /* CoverImageView.swift in Sources */,
+				0464FDC126796F4C00BF04C2 /* AnimalDetailView.swift in Sources */,
 				0464FDAE2679338500BF04C2 /* MapView.swift in Sources */,
 				0464FD7A2679151700BF04C2 /* AfrikaApp.swift in Sources */,
 				0464FDB82679411F00BF04C2 /* CoverImage.swift in Sources */,
