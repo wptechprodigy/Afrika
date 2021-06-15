@@ -17,7 +17,25 @@ struct AnimalDetailView: View {
     var body: some View {
         ScrollView (.vertical, showsIndicators: false, content: {
             VStack (alignment: .center, spacing: 20) {
-                Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+                // HERO IMAGE
+                Image(animal.image)
+                    .resizable()
+                    .scaledToFit()
+                
+                // TITLE
+                
+                // HEADLINE
+                
+                // GALLERY
+                
+                // FACTS
+                
+                // DESCRIPTION
+                
+                // MAP
+                
+                // LINK
+                
             } // : VSTACK
             .navigationBarTitle("Learn about \(animal.name)", displayMode: .inline)
         }) // : SCROLL
