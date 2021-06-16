@@ -18,7 +18,7 @@ struct VideoListItemView: View {
     var body: some View {
         HStack (spacing: 10) {
             ZStack {
-                Image("video-\(video.id)")
+                Image(video.thumbnail)
                     .resizable()
                     .scaledToFit()
                     .frame(height: 80)
