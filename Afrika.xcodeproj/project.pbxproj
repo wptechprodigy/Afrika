@@ -43,6 +43,7 @@
 		0464FDCF267A5DFD00BF04C2 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDCE267A5DFD00BF04C2 /* Video.swift */; };
 		0464FDD1267A639D00BF04C2 /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDD0267A639D00BF04C2 /* VideoListItemView.swift */; };
 		0464FDD3267A8CBF00BF04C2 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDD2267A8CBF00BF04C2 /* VideoPlayerView.swift */; };
+		0464FDD6267A8FA000BF04C2 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDD5267A8FA000BF04C2 /* VideoPlayerHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -84,6 +85,7 @@
 		0464FDCE267A5DFD00BF04C2 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		0464FDD0267A639D00BF04C2 /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
 		0464FDD2267A8CBF00BF04C2 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
+		0464FDD5267A8FA000BF04C2 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 		0464FD782679151700BF04C2 /* Afrika */ = {
 			isa = PBXGroup;
 			children = (
+				0464FDD4267A8F8B00BF04C2 /* Helpers */,
 				0464FDAA2679330C00BF04C2 /* App */,
 				0464FDB92679454E00BF04C2 /* Extensions */,
 				0464FDB62679410700BF04C2 /* Models */,
@@ -229,6 +232,14 @@
 			path = Extensions;
 			sourceTree = "<group>";
 		};
+		0464FDD4267A8F8B00BF04C2 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				0464FDD5267A8FA000BF04C2 /* VideoPlayerHelper.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -322,6 +333,7 @@
 				0464FDC126796F4C00BF04C2 /* AnimalDetailView.swift in Sources */,
 				0464FDAE2679338500BF04C2 /* MapView.swift in Sources */,
 				0464FD7A2679151700BF04C2 /* AfrikaApp.swift in Sources */,
+				0464FDD6267A8FA000BF04C2 /* VideoPlayerHelper.swift in Sources */,
 				0464FDCB267A041800BF04C2 /* InsetMapView.swift in Sources */,
 				0464FDB82679411F00BF04C2 /* CoverImage.swift in Sources */,
 				0464FDCD267A129E00BF04C2 /* ExternalWebLinkView.swift in Sources */,
