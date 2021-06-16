@@ -42,6 +42,7 @@
 		0464FDCD267A129E00BF04C2 /* ExternalWebLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDCC267A129E00BF04C2 /* ExternalWebLinkView.swift */; };
 		0464FDCF267A5DFD00BF04C2 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDCE267A5DFD00BF04C2 /* Video.swift */; };
 		0464FDD1267A639D00BF04C2 /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDD0267A639D00BF04C2 /* VideoListItemView.swift */; };
+		0464FDD3267A8CBF00BF04C2 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDD2267A8CBF00BF04C2 /* VideoPlayerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -82,6 +83,7 @@
 		0464FDCC267A129E00BF04C2 /* ExternalWebLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExternalWebLinkView.swift; sourceTree = "<group>"; };
 		0464FDCE267A5DFD00BF04C2 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		0464FDD0267A639D00BF04C2 /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
+		0464FDD2267A8CBF00BF04C2 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 				0464FDCA267A041800BF04C2 /* InsetMapView.swift */,
 				0464FDCC267A129E00BF04C2 /* ExternalWebLinkView.swift */,
 				0464FDD0267A639D00BF04C2 /* VideoListItemView.swift */,
+				0464FDD2267A8CBF00BF04C2 /* VideoPlayerView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -328,6 +331,7 @@
 				0464FDC526797D4000BF04C2 /* InsetGalleryView.swift in Sources */,
 				0464FDB02679339F00BF04C2 /* GalleryView.swift in Sources */,
 				0464FDC32679758800BF04C2 /* HeadingView.swift in Sources */,
+				0464FDD3267A8CBF00BF04C2 /* VideoPlayerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
