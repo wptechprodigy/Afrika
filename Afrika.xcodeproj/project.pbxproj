@@ -38,6 +38,7 @@
 		0464FDC32679758800BF04C2 /* HeadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDC22679758800BF04C2 /* HeadingView.swift */; };
 		0464FDC526797D4000BF04C2 /* InsetGalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDC426797D4000BF04C2 /* InsetGalleryView.swift */; };
 		0464FDC72679F69F00BF04C2 /* InsetFactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDC62679F69E00BF04C2 /* InsetFactView.swift */; };
+		0464FDCB267A041800BF04C2 /* InsetMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDCA267A041800BF04C2 /* InsetMapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -74,6 +75,7 @@
 		0464FDC22679758800BF04C2 /* HeadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadingView.swift; sourceTree = "<group>"; };
 		0464FDC426797D4000BF04C2 /* InsetGalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetGalleryView.swift; sourceTree = "<group>"; };
 		0464FDC62679F69E00BF04C2 /* InsetFactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetFactView.swift; sourceTree = "<group>"; };
+		0464FDCA267A041800BF04C2 /* InsetMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetMapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +195,7 @@
 				0464FDC22679758800BF04C2 /* HeadingView.swift */,
 				0464FDC426797D4000BF04C2 /* InsetGalleryView.swift */,
 				0464FDC62679F69E00BF04C2 /* InsetFactView.swift */,
+				0464FDCA267A041800BF04C2 /* InsetMapView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				0464FDC126796F4C00BF04C2 /* AnimalDetailView.swift in Sources */,
 				0464FDAE2679338500BF04C2 /* MapView.swift in Sources */,
 				0464FD7A2679151700BF04C2 /* AfrikaApp.swift in Sources */,
+				0464FDCB267A041800BF04C2 /* InsetMapView.swift in Sources */,
 				0464FDB82679411F00BF04C2 /* CoverImage.swift in Sources */,
 				0464FDAC2679336400BF04C2 /* VideoListView.swift in Sources */,
 				0464FDBB2679455B00BF04C2 /* CodableBundle.swift in Sources */,
