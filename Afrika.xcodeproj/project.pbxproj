@@ -41,6 +41,7 @@
 		0464FDCB267A041800BF04C2 /* InsetMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDCA267A041800BF04C2 /* InsetMapView.swift */; };
 		0464FDCD267A129E00BF04C2 /* ExternalWebLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDCC267A129E00BF04C2 /* ExternalWebLinkView.swift */; };
 		0464FDCF267A5DFD00BF04C2 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDCE267A5DFD00BF04C2 /* Video.swift */; };
+		0464FDD1267A639D00BF04C2 /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464FDD0267A639D00BF04C2 /* VideoListItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		0464FDCA267A041800BF04C2 /* InsetMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetMapView.swift; sourceTree = "<group>"; };
 		0464FDCC267A129E00BF04C2 /* ExternalWebLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExternalWebLinkView.swift; sourceTree = "<group>"; };
 		0464FDCE267A5DFD00BF04C2 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		0464FDD0267A639D00BF04C2 /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -201,6 +203,7 @@
 				0464FDC62679F69E00BF04C2 /* InsetFactView.swift */,
 				0464FDCA267A041800BF04C2 /* InsetMapView.swift */,
 				0464FDCC267A129E00BF04C2 /* ExternalWebLinkView.swift */,
+				0464FDD0267A639D00BF04C2 /* VideoListItemView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0464FDD1267A639D00BF04C2 /* VideoListItemView.swift in Sources */,
 				0464FDBF267961E000BF04C2 /* Animal.swift in Sources */,
 				0464FD7C2679151700BF04C2 /* ContentView.swift in Sources */,
 				0464FDBD2679528500BF04C2 /* AnimalListItemView.swift in Sources */,
