@@ -28,6 +28,7 @@ struct VideoListView: View {
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button(action: {
                         // Shuffle Videos
+                        videos.shuffle()
                     }, label: {
                         Image(systemName: "arrow.2.squarepath")
                     })
